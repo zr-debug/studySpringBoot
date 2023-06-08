@@ -1,0 +1,4 @@
+server:
+  port: 12344
+  servlet:
+    context-path: /7k7k
